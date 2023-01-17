@@ -1,0 +1,10 @@
+f = 260e6;
+lanmuda = 3e8/f;
+R = 0.482*lanmuda   %反射器的长度
+A = 0.47*lanmuda     %有源振子的长度
+D1 = 0.428*lanmuda    %引向器1的长度
+D2 = 0.420*lanmuda    %引向器2的长度
+D3 = 0.420*lanmuda    %引向器3的长度
+D4 = 0.428*lanmuda    %引向器4的长度
+SD = 0.25*lanmuda      %引向器之间的距离
+SR = 0.2*lanmuda       %反射器与有源振子之间的间距
